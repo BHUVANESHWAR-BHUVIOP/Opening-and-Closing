@@ -87,6 +87,4 @@ plt.show()
 <br>
 
 ## Result
-Thus the Opening and Closing operation is used in the image using python and OpenCV.![OP3](https://user-images.githubusercontent.com/94155099/172343199-7115cd5a-5a27-4260-b9fd-1ac8928a3bc8.png)
-![OP1](https://user-images.githubusercontent.com/94155099/172343205-22bd0f32-ed04-483e-9db6-ad93dd3cb071.png)
-![OP2](https://user-images.githubusercontent.com/94155099/172343208-e518aa12-7c6e-4a06-af0c-6e78bad928dc.png)
+Thus the Opening and Closing operation is used in the image using python and OpenCV.
